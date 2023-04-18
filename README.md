@@ -1,5 +1,5 @@
 # Email CMS dashboard
-A low-code email builder CMS platform where an administrator can start an automated email campaign.  This features a WYSIWYG email builder using Unlayer API.  The motivation behind this project was to help monetize my friend's social media by starting a daily newsletter that is fully automated and easy to create, edit, delete emails within the campaign. The automation is handled by using a Cron job to process and compose emails daily to subscribers that have been fetched daily from Sendinblue to the Postgres database.
+A low-code email builder CMS platform where an administrator can start an automated email campaign.  This features a WYSIWYG email builder using Unlayer API.  The motivation behind this project was to help monetize  social media marathon runner influencer by starting a daily newsletter that is fully automated and easy to create, edit, delete emails within the campaign. The automation is handled by using a Cron job to process and compose emails daily to subscribers that have been fetched daily from Sendinblue to the Postgres database.
 
  Technologies: React, Redux, JavaScript, PostgreSQL, Unlayer API, CSS, HTML, Material UI, Sendinblue, Zapier
 https://www.figma.com/file/e71EjMsnaZmN6s131upiRM/DailyWorkout-Pro?node-id=316-677&t=7tnKalrrF17TdHeq-0
